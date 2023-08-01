@@ -2,8 +2,8 @@
 
 /**
  * delete_nodeint_at_index - Deletes a node in a linked list at a specific index.
- * @head: Pointer to the first element in the list.
- *@index: Index of the node to delete.
+ * @head: pointer to the first element in the list
+ * @index: index of the node to delete
  *
  * Return: 1 (Success) if the node is deleted, or -1 (Fail) if the index is invalid.
  */
