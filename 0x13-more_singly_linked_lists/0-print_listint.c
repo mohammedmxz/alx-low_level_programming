@@ -1,11 +1,11 @@
 #include "lists.h"
 
 /**
-* print_listint - This function prints all the elements of a linked list
-* @h: Pointer to the linked list of type listint_t to be printed
-*
-* Return: The number of nodes in the linked list
-*/
+ * print_listint - This function prints all the elements of a linked list
+ * @h: Pointer to the linked list of type listint_t to be printed
+ *
+ * Return: The number of nodes in the linked list
+ */
 size_t print_listint(const listint_t *h)
 {
 	size_t num = 0;
@@ -19,4 +19,3 @@ size_t print_listint(const listint_t *h)
 
 	return (num);
 }
-
