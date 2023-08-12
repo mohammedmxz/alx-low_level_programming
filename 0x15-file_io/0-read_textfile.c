@@ -1,10 +1,11 @@
 #include "main.h"
 #include <stdlib.h>
 
+
 /**
- * read_textfile - Reads a text file and prints to POSIX stdout.
+ * read_textfile - Reads a text file and prints it to POSIX stdout.
  * @filename: Pointer to the name of the file.
- * @letters: Number of letters the
+ * @letters: The number of letters the
  *           function should read and print.
  *
  * Return: If the function fails or filename is NULL - 0.
