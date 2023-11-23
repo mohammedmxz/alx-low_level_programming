@@ -37,13 +37,3 @@ def island_perimeter(grid):
 
     return perimeter
 
-# Uncomment the following lines to test the example in the 5-main.py script
-# grid = [
-#     [0, 0, 0, 0, 0, 0],
-#     [0, 1, 0, 0, 0, 0],
-#     [0, 1, 0, 0, 0, 0],
-#     [0, 1, 1, 1, 0, 0],
-#     [0, 0, 0, 0, 0, 0]
-# ]
-# print(island_perimeter(grid))
-
